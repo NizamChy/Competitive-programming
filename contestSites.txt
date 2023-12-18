@@ -1,0 +1,104 @@
+JUNIOR TRAINING SHEET LINK
+https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?fbclid=IwAR1DgipZ3VvNJVJC1zwta8rpNIEJP-maXRuDDPKyZRyDojotFOBhV6DeVWM#gid=84654839
+
+https://docs.google.com/spreadsheets/d/1S-GbdzB2A5FaFUWmUAQ5DUlW7wjYjev55_w9SvXZMEg/edit?usp=sharing
+
+https://codeforces.com/group/MWSDmqGsZm/contests
+
+www.codeforces.com
+www.atcoder.jp
+toph.co               (BD)
+www.codechef.com
+www.vjudge.net
+www.stopstalk.com
+
+
+/////////////////////////1
+
+1. What is competitive programming?
+2. Why competitive programming?
+3. How we can start competitive programming 
+    -> Knowing the question sets
+    -> Compiling and Judging 
+    -> How does Online judges work?
+    -> Name of Online judges
+        a. Codeforces: https://codeforces.com
+        b. AtCoder: https://atcoder.jp/home
+        c. vJudge: https://vjudge.net/
+    -> Knowing about programming contests (ICPC, CF, CC etc)
+4. Introduction on CF newcomer sheet
+5. Solving our first problem 
+6. Data types and their uses.
+7. When does data overflow happen?
+8. Time complexity
+9. Why time complexity should be taken care of.
+10. Many types of Input and output
+11. Basic instruction for upcoming classes 
+
+*** Class Video, Presentation and Training sheet links are attached.
+
+
+//////////////////////2
+1. Simple discussion on Loop
+->Three types of loop
+->Break, continue
+2. Nested loop
+3. Time Complexity
+4. Problems need to be solve by loop:
+-> Problem G
+-> More discussion on data overflow
+-> Palindrome
+-> Prime number in (O(n) and O(sqrt(n))
+-> GCD & LCM
+-> Summing the Digits of a number
+-> Fibonacci
+-> Pattern printing
+5. Many types of Input and output (test cases)
+6. UVa - 256 !
+7. Problems from Sheet - 1
+
+*** Class Video and Training sheet links are attached.
+
+
+
+
+//////////////////////6
+
+Today we discussed about:
+
+● C++ string
+● C String and C++ String
+○ Input output
+○ string size(), length()
+● Getline
+○ cin.ignore()
+● String builtin compare operators
+● String concatenation
+● ASCII Value
+○ Lower case, upper case, number conversion using ASCII.
+○ Working with a character count array.
+● Substring
+● Subsequence
+● Palindrome
+● String with some built-in functions
+○ sort()
+○ reverse()
+○ swap()
+○ substr()
+
+Problems: E, G, J, L, O. //CHECK PDF ON GC
+
+//////////////////////7
+Operator overloadable Big Integer Library: https://github.com/NaimHasanPappu/Algorithm/blob/master/BigInteger.cpp
+
+
+//////////////////////9
+Basic Number Theory
+GCD using loop from 1 to N
+GCD with log(N) with loop & built_in function
+LCD
+Sheet 6 H
+Prime (N, N/2, sqrt(N) )
+Sheet 6 B
+Modular Arithmetic (+, -, *, /)
+Sheet 6 (Q, M)
